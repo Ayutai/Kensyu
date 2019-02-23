@@ -8,3 +8,5 @@ echo "add line 3"
 
 expr 2 + 2 | echo $?
 
+echo "ブランチ作成後"
+
