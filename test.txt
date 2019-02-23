@@ -6,3 +6,5 @@ echo "add line 2"
 
 echo "add line 3"
 
+expr 2 + 2 | echo $?
+
